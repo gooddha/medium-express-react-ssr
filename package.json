@@ -1,0 +1,19 @@
+{
+  "name": "react-ssr-tutorial",
+  "version": "1.0.0",
+  "description": "https://medium.com/@danlegion/react-server-side-rendering-with-express-b6faf56ce22",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gooddha/medium-express-react-ssr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gooddha/medium-express-react-ssr/issues"
+  },
+  "homepage": "https://github.com/gooddha/medium-express-react-ssr#readme"
+}
